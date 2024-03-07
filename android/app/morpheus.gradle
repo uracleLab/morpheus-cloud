@@ -1,0 +1,2 @@
+// !! DO NOT TOUCH THIS FILE 
+apply from: '../../node_modules/@morpheus/core/android/library.gradle'

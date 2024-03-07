@@ -1,0 +1,19 @@
+{
+  "name": "project",
+  "version": "1.0.0",
+  "description": "Hybrid Mobill Application Morpheus",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sync": "morpheus sync",
+    "postinstall": "morpheus sync"
+  },
+  "keywords": [],
+  "dependencies": {
+    "@morpheus/core": "2.18.29"
+  },
+  "devDependencies": {
+    "@morpheus/cli": "0.0.22"
+  },
+  "author": "",
+  "license": "ISC"
+}

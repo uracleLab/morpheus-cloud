@@ -1,0 +1,9 @@
+{
+  "legacyJsOutPut": "web/public/js",
+  "projectName": "project",
+  "applicationId": "com.baeoom.smart",
+  "androidAppName": "vue",
+  "androidPackageName": "com.baeoom.smart",
+  "iosAppName": "vue",
+  "iosBundleId": "com.baeoom.smart"
+}
