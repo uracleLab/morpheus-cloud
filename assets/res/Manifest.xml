@@ -3,8 +3,8 @@
     <log>y</log>
     <lang>system</lang>
     <resource>
-        <base_version>000000</base_version>
-        <target>app</target>
+        <base_version>000001</base_version>
+        <target>doc</target>
         <update>
             <server/>
             <trcode/>
