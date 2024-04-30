@@ -12,7 +12,7 @@
         </update>
     </resource>
     <startpage>
-        <name>www/web/index.html</name>
+        <name>https://cloud.morpheus.kr/#/home</name>
         <orient>default</orient>
         <orient-tablet>default</orient-tablet>
     </startpage>
